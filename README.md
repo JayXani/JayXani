@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Welcome+!;I'am+Danilo+Gomes)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Welcome+!;I'am+Danilo+Gomes+!)](https://git.io/typing-svg)
 
 ## A Full-Stack developer, studying systems analysis and development at Fatec Mogi Das Cruzes, and I'm also a Support Analyst trainee at Desk Manager.
 ### Want to get to know me better? Find me here:
@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayXani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-### Skills
+### Skills:
 
 ![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@
 > ![Skills](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 > ![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-> ### Databases and ORMs
+> ### Databases and ORMs:
 > ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 > ![Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 > ![Skills](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,10 +48,10 @@
 > ![Skills](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 
-> ### Tests
+> ### Tests:
 > ![Skills](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-### Contribuições:
+### Contributions:
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JayXani&theme=radical&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
