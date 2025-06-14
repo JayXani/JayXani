@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Welcome+!;I'm+Danilo+Gomes+!)](https://git.io/typing-svg)
 
-## A Full-Stack developer, studying systems analysis and development at Fatec Mogi Das Cruzes, and I'm also a Support Analyst trainee at Desk Manager.
+## A Full-Stack developer, studying systems analysis and development at Fatec Mogi Das Cruzes, and I'm also a Junior Developer at Desk Manager.
 ### Want to get to know me better? Find me here:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danilo-de-araujo)
